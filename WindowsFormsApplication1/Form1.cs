@@ -51,6 +51,7 @@ namespace WindowsFormsApplication1
             {
                 this.axKHOpenAPI1.CommTerminate();
                 MessageBox.Show("Log off");
+                MessageBox.Show("test");
             }
         }
     }
